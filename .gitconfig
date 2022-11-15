@@ -1,3 +1,5 @@
 [user]
 	name = dawndaa
 	email = 2932396723@qq.com
+[http]
+	sslVerify = false
